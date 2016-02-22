@@ -1,4 +1,5 @@
 [
+{"date":"2016年02月20日","predication":"跳过","sum":0},
 {"date":"2016年02月18日","predication":"跳过","sum":0},
 {"date":"2016年02月16日","predication":"跳过","sum":0},
 {"date":"2016年02月13日","predication":"跳过","sum":0},
